@@ -1,5 +1,7 @@
 # Dispam
 
+## Introduction
+Have you ever thought about spamming a discord server becuase you hated it so much and  you're just too lazy to do it? Congrats! I have been there and I took the high road to doing it!
 ## Install
 #### Normal way
 Go to the the Versions File and find the file that is your operating system. Then that file in the folder where it is most convenient for you. You will need to run this in the terminal.
