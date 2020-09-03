@@ -13,7 +13,7 @@ go run dispam.go
 ## Use
 1. Double click on the file to run. It should bring up a terminal.
 2. You need the Captcha key for discord. So sign in on the website normally but use a HTTP incepter(EX: burp suite) to capture your sign in request. Find your Captcha key. Save this for later.
-3. This terminal will ask for you to sign-in into discord. I **Don't Recommended** using this on public wifi since it does exposes your credentials to tools like WireShark.
+3. This terminal will ask for you to sign-in into discord. I **Don't Recommend** using this on public wifi since it does exposes your credentials to tools like WireShark.
 4. You then have to enter the Server number. This is the first set of number in the URL to the Server(EX: https://discord.com/channels/`727263403810357258`/727263403810357261 the highlighted section is the server number)
 5. You then will have to give the Room Number. This is the rest of the numbers at the end.(EX: https://discord.com/channels/727263403810357258/`727263403810357261` the highlighted section is the Room number)
 6. Now you get to write a message!
